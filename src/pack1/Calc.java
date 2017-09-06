@@ -14,8 +14,10 @@ public class Calc {
 		if (a<10)
 			ciao = "ciao!!";
 		else
-			ciao = "hey!";
+			ciao = "david!";
 
+
+	//qualcosa due
 		return ciao;
 	}
 	
