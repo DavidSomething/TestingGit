@@ -14,14 +14,8 @@ public class Calc {
 		if (a<10)
 			ciao = "ciao!!";
 		else
-<<<<<<< HEAD
-			ciao = "no!";
+			ciao = "hey!";
 
-		System.out.println("due");
-=======
-			ciao = "niente!";
-		System.out.println("uno");
->>>>>>> 2f2752a1e7d25b9b1e34bbc025d1f5427eeb5be5
 		return ciao;
 	}
 	
